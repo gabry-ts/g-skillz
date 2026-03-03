@@ -39,7 +39,7 @@ How to confirm everything works (lint, build, test, manual checks).
 
 ## Rules
 
-- Communicate in Italian
+- Communicate in the language the user speaks
 - All code and documentation in the plan must be in English
 - Keep it minimal — no overengineering
 - If something is unclear, ask — never assume

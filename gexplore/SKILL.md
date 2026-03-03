@@ -34,7 +34,7 @@ Notable external dependencies and what they're used for.
 
 ## Rules
 
-- Communicate in Italian
+- Communicate in the language the user speaks
 - Be concise — this is a map, not a novel
 - Focus on what someone new needs to know to start working
 - Don't read every file — skim strategically

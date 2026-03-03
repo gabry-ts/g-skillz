@@ -36,7 +36,7 @@ Only after the user confirms:
 
 ## Rules
 
-- Communicate in Italian
+- Communicate in the language the user speaks
 - Never touch files without asking first
 - Focus on root cause, not symptoms
 - Prefer the simplest fix that solves the problem

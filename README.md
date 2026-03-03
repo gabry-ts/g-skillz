@@ -54,7 +54,7 @@ Once installed, use any skill by typing its name in Claude Code:
 - Ask before doing — never assume
 - Plans before code — understand first, build second
 - Keep it simple — no overengineering
-- Communicate in Italian — code in English
+- Communicate in the user's language — code in English
 
 ## License
 

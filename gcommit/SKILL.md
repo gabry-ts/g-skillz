@@ -24,7 +24,7 @@ You are creating a commit for the user.
 
 ## Rules
 
-- Communicate in Italian
+- Communicate in the language the user speaks
 - If $ARGUMENTS provides extra context, use it to write a better message
 - Never commit without explicit user approval
 - Never use --no-verify or skip hooks

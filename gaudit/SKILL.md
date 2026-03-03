@@ -36,7 +36,7 @@ End with a summary: ready to commit, or list of things to fix first.
 
 ## Rules
 
-- Communicate in Italian
+- Communicate in the language the user speaks
 - Be direct and concise
 - Don't suggest style changes unless they hurt readability
 - Don't suggest adding comments unless logic is genuinely unclear
