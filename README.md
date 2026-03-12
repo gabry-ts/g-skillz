@@ -12,6 +12,7 @@ A collection of practical Claude Code skills for a structured, no-nonsense devel
 | `/gfix` | Investigate a bug or error, find the root cause, propose a fix |
 | `/gexplain` | Explain a file, function, or code block in plain terms |
 | `/gcommit` | Generate a commit message from the current diff and commit |
+| `/gtex` | Generate LaTeX documents from a description, optionally compile to PDF |
 
 ## Installation
 
@@ -47,6 +48,7 @@ Once installed, use any skill by typing its name in Claude Code:
 /gfix TypeError: Cannot read property 'id' of undefined
 /gexplain src/auth/jwt.service.ts
 /gcommit
+/gtex quarterly financial report for Q1 2026
 ```
 
 ## Philosophy
